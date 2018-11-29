@@ -332,19 +332,6 @@ public class Main {
                     System.out.println("It is a special character");
                 }
                 break;
-            case 18:
-                
-
-
-
-
-
-
-
-
-
-
-
 
 
 
